@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UNO</string>
+    <string name="limit">The limit of the score:</string>
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="cleared">Clear!</string>
+    <string name="added">Added!</string>
+    <string name="score">Score</string>
+    <string name="bad_data">Some players have invalid data to add</string>
+    <string name="undo">UNDO</string>
+    <string name="onlyplayer">Player couldn\'t play UNO game alone! Please add more players</string>
+    <string name="start_game">Starting</string>
+    <string name="remove_player">Remove Player</string>
+    <string name="the_limit">Enter the limit of the score:</string>
+    <string name="players">Players (3 or more):</string>
+    <string name="wrong_limit">Please, enter the correct limit of score</string>
+    <string name="add_player">Add Player</string>
+    <string name="player">Player</string>
+    <string name="start">Start Game</string>
+    <string name="player_name_hint">Enter the name</string>
+
+
+</resources>
